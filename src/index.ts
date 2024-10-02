@@ -51,9 +51,9 @@ client.on("ready", async () => {
     .setName('☣ Sushantt')
     .setState('🛠 Running...')
     .setDetails('Mind Your Own business Bitch😏')
-    .setAssetsLargeImage('https://cdn.discordapp.com/icons/1014921352500756500/d2ed4735e5e40808124696fe97bc4c9d.png?size=2048')
+    .setAssetsLargeImage('https://cdn.discordapp.com/avatars/980322929571168266/05e16dca95509676e164364649833feb.png?size=2048')
     .setAssetsLargeText('Sushant')
-    .setAssetsSmallImage('https://media.discordapp.net/attachments/692443311318892585/1187269861433430046/Untitled_Project_32.jpg?ex=65964639&is=6583d139&hm=3c25a4cb96b3794c80e6b610d6de8c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473')
+    .setAssetsSmallImage('https://cdn.discordapp.com/avatars/980322929571168266/05e16dca95509676e164364649833feb.png?size=2048c4f40e190cf16a8957d1847cda61bb36185&=&format=webp&width=473&height=473')
     .setAssetsSmallText('Join')
     .setStartTimestamp(new Date(1677642874 * 1000))
     .addButton(t('join'), 'https://discord.gg/infinite-community-1014921352500756500');
